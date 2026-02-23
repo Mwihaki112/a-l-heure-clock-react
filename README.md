@@ -34,7 +34,7 @@ The name “a` l’heure” means “the hour” or “the time” in French, an
 
 ## Setup Instructions
 1. Clone the repository:
-git clone <your-repo-url>
+git clone
 2. Navigate to the project folder:
 cd a-lheure
 3. Install dependencies:
